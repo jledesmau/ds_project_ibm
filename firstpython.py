@@ -1,3 +1,10 @@
+'''
+Mi primer programa en Python
+
+Jorge Ledesma
+30-nov-2022
+'''
+
 # Display the output
 print("New Python file")
 

@@ -1,5 +1,7 @@
 { pkgs }: {
   deps = [
+    pkgs.python39Packages.pylint
+    pkgs.python39Packages.autopep8
     pkgs.python38Full
   ];
   env = {
